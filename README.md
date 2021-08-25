@@ -2,7 +2,7 @@
 Repository for talk on data cleaning, manipulation and visualization in Python for the GDI Cohort Program
 
 ## Getting started
-This repository requires `python` to be installed, `python3.5+` is recommendedd. `pip` is also required.
+This repository requires `python` to be installed, `python3.5+` is recommended. `pip` is also required.
 
 To get started, clone this repository onto your local machine and navigate to it. Using a python virtual environment is recommended. Run the following command to install the required python packages.
 
