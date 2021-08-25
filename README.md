@@ -23,3 +23,7 @@ jupyter notebook
 ```
 
 Click the link in your terminal and the notebook should open in your browser.
+
+The data is located in the `data/` directory, the original raw data set located in `data/raw/` and the cleaned data set in `data/processed/`.
+
+There are three jupyter notebooks in the `notebooks` folder, split into their functions. One for data cleaning, one for visualization and finally one for modeling/prediction.
